@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 master继续主线向前走。update4 update5
+=======
+暂未添加。修改的时候需要用到。
+正在当前brancha分支执行git merge master
+表示将master分支内容 合并到brancha中。
+
+如果是在checkout master当中执行 git merge brancha 表示将brancha 合并到master中
+>>>>>>> brancha
