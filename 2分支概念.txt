@@ -1,1 +1,3 @@
-暂未添加。修改的时候需要用到。
+创建分支： $ git branch mybranch
+切换分支： $ git checkout mybranch
+创建并切换分支： $ git checkout -b mybranch
