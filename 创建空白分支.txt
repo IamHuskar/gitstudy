@@ -1,0 +1,12 @@
+git branch <new_branch>
+git checkout <new_branch>
+git rm --cached -r . 
+git clean -f -d
+
+
+
+add files
+
+git add --all
+git commit -m 'first commit'
+git push
