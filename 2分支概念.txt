@@ -1,9 +1,0 @@
-创建分支： $ git branch mybranch
-切换分支： $ git checkout mybranch
-创建并切换分支： $ git checkout -b mybranch
-
-继续增加分支修改的内容。
-
-在git checkout brancha以后表示切换到了brancha分支
-接下来可以在这个分支执行修改。
-一旦我觉得分支问题不大了。可以和主线合并了就可以尝试合并了
